@@ -66,7 +66,7 @@ h4
 body
 {
 	/* L'image couvrira l'ensemble de la page, sera fixe et ne se répétera pas !  */
-	background-image: url("file:///C:/Users/Fred/Desktop/site/board-2398309_640.jpg");
+	background-image: url("https://github.com/Ikarus71-pixel/auducfvisitcard/blob/main/board-2398309_640.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
